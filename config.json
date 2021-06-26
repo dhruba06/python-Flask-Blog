@@ -4,9 +4,9 @@
         "local_server" : "True",
         "local_uri" : "mysql://root:trend5738@localhost/codingthunder",
         "prod_uri" : "mysql://root:trend5738@localhost/codingthunder",
-        "fb_url" : "https://facebook.com/codingthunder",
-        "tw_url" : "https://twitter.com/codingthunder",
-        "gh_url" : "https://github.com/codingthunder",
+        "fb_url" : "https://facebook.com/conceptblog",
+        "tw_url" : "https://twitter.com/conceptblog",
+        "gh_url" : "https://github.com/conceptblog",
         "blog_name" : "Concept Blog",
         "blog_sub_heading" : "Programming Learner's",
         "tag_line" : "A Blog liked by programming learner's",
@@ -17,6 +17,6 @@
         "login_image" : "login.svg",
         "admin_user" : "dhruv",
         "admin_password" : "classic350",
-        "upload_location" : "D:\\CODE_WITH_HARRY\\flaskTuto"
+        "upload_location" : "D:\\your_location\\yourfolder"
     }
 }
