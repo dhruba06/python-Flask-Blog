@@ -2,8 +2,8 @@
     "params" : {
 
         "local_server" : "True",
-        "local_uri" : "mysql://root:trend5738@localhost/codingthunder",
-        "prod_uri" : "mysql://root:trend5738@localhost/codingthunder",
+        "local_uri" : "your mysql database root local",
+        "prod_uri" : "your mysql database root remote",
         "fb_url" : "https://facebook.com/conceptblog",
         "tw_url" : "https://twitter.com/conceptblog",
         "gh_url" : "https://github.com/conceptblog",
@@ -15,8 +15,8 @@
         "about_text" : "Hi i am dhruv and i create application based on IOT",
         "no_of_posts" : 2,
         "login_image" : "login.svg",
-        "admin_user" : "dhruv",
-        "admin_password" : "classic350",
+        "admin_user" : "your user name ",
+        "admin_password" : "your password",
         "upload_location" : "D:\\your_location\\yourfolder"
     }
 }
